@@ -1,5 +1,6 @@
 package com.example.homework7android11
 
+import android.content.Context
 import android.graphics.Color
 import android.graphics.drawable.GradientDrawable
 import android.view.LayoutInflater
